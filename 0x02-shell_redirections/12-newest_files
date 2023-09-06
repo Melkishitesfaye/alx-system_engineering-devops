@@ -1,2 +1,2 @@
 #!/bin/bash
-head . | lpr | sort
+head . | pr | sort
